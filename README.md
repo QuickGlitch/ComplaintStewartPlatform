@@ -1,7 +1,7 @@
 # ComplaintStewartPlatform
 The Design and Control of a Humanoid Robotic Torso using Matlab
 
-## Wheelchair Stewart Platform Examples %%%
+## Wheelchair Stewart Platform Examples
 There are 2 examples: StewartPlatform and WheelchairModelWithSpine. Both should be run from the .m file, not the .slx (simmechanics file). The .m files should launch mechanics explorer which will animate the simmechanics 2G. Made in Matlab v.2015b. later versions of Simmechanics are not guaranteed to work.
 
 NOTE: these examples are smaller, limited cases. PID control and Torque loads are excluded from these models. Uploading the complete models is on the to do list.
